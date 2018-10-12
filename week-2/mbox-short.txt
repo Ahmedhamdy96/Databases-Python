@@ -1,0 +1,6 @@
+From: ahmed@gmail.com 2 
+From: mohamed@yahoo.com 6 
+From: emad@gmail.com 1 
+Not Starting With From 
+From: osama@gmail.com 2 
+End 
